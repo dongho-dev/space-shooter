@@ -1,0 +1,19 @@
+# 비밀 값
+.env*
+*.pem
+
+# Node
+node_modules/
+dist/
+build/
+.vite/
+
+# 도구·편집기
+.claude/settings.local.json
+.omx/
+.vercel/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
